@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables / Secrets
+.env
+*.env
+
+# Pytest / Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Logs
+*.log
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Static / Media files (if generated dynamically)
+staticfiles/
+media/
+
+# OS files
+.DS_Store
+Thumbs.db
